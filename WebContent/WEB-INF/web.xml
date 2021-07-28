@@ -3,7 +3,7 @@
  
  <!--
  <servlet>
- <servlet-name>name1</servlet-name>
+ <servlet-name>name1</servlet-name>s
  <servlet-class>com.mustafa.AddServlet</servlet-class>
  </servlet>
  
@@ -14,3 +14,4 @@
  </servlet-mapping> 
  -->
 </web-app>
+kjbnm 
